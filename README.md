@@ -1,16 +1,15 @@
-### Hi there 👋
+![Alonso Tagle banner](https://raw.githubusercontent.com/alonsotagle/alonsotagle/master/octocat.png "Banner")
 
-<!--
-**alonsotagle/alonsotagle** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Hi, I'm Alonso. 👋
 
-Here are some ideas to get you started:
+...and I believe in producing high-quality work that fuels the engagement between brands and their audience. My passion is coding & technology.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Tech ought to empower people.
+
+  - _[dev@alonsotagle.com][1]_
+  - _[LinkedIn][2]_
+  - _[alonsotagle.com][3]_
+
+[1]: mailto:dev@alonsotagle.com
+[2]: https://www.linkedin.com/in/alonsotagle/
+[3]: https://alonsotagle.com
